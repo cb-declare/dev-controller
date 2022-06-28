@@ -1,0 +1,4 @@
+variables:
+- team: cb-declare
+- admin-user: jhrenken-admin
+- manager-user: jhrenken
